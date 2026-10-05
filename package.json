@@ -1,0 +1,27 @@
+{
+  "name": "auto-form-filler",
+  "version": "1.0.0",
+  "description": "**Auto-Form-Filler** is a Python tool designed to automate the submission of forms on multiple web pages by reading URLs from a CSV file and using Selenium WebDriver. It's perfect for testing or performing bulk form submissions across various websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imshrishk/Auto-Form-Filler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/imshrishk/Auto-Form-Filler/issues"
+  },
+  "homepage": "https://github.com/imshrishk/Auto-Form-Filler#readme",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "cheerio": "^1.2.0",
+    "playwright": "^1.63.0",
+    "xlsx": "^0.18.5"
+  }
+}

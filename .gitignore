@@ -1,0 +1,30 @@
+node_modules/
+package-lock.json
+
+# Results and logs
+monitoring-results.json
+monitoring-logs.txt
+
+# Input files (personal data)
+urls.txt
+url.txt
+first-name.txt
+last-name.txt
+subject.txt
+message.txt
+websites.csv
+input.csv
+input.xlsx
+*.csv
+
+# Chromedriver
+chromedriver.exe
+
+# Python
+main.py
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
